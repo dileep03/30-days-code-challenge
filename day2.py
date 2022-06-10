@@ -1,4 +1,4 @@
-#30-days-code-challenge- DAY 1
+#30-days-code-challenge- DAY 2
 #learning python basics
 
 #reversing an array
