@@ -5,14 +5,10 @@
 
 #using random()
 import random
-print(random.randrange(1,1000))
-
-#creating a new function
-def function():
-   print("im on my day one of the CTC 30days code challenge")
-function()
+print(random.randrange(1,1000000))
 
 #using loops
+#factorial of a no
 n = int(input("Enter number: ")) 
 if(n == 0 or n < 0):
     print("Value of n be greater than 1")
