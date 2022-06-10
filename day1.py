@@ -12,7 +12,7 @@ def function():
    print("im on my day one of the CTC 30days code challenge")
 function()
 
-#using looping statements
+#using loops
 n = int(input("Enter number: ")) 
 if(n == 0 or n < 0):
     print("Value of n be greater than 1")
