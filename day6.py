@@ -1,4 +1,4 @@
-#30-days-code-challenge- DAY 5(15/6/22)
+#30-days-code-challenge- DAY 6(15/6/22)
 #learning python basics
 
 #linear search
