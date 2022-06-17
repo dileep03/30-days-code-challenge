@@ -1,4 +1,4 @@
-#30-days-code-challenge- DAY 7(17/6/22)
+#30-days-code-challenge- DAY 8(17/6/22)
 #learning python basics
 
 #merge sort
