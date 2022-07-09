@@ -1,4 +1,4 @@
-#30-days-code-challenge- DAY 29(8/7/22)
+#30-days-code-challenge- DAY 30(9/7/22)
 #learning python basics
 
 # Python program to convert time
